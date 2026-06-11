@@ -1,18 +1,75 @@
-# 💫 About Me:
-Hi there 👋, I'm Manpreet Kaur<br><br>🎓 Electronics Engineering Student specializing in VLSI Design & Technology<br><br>.<br><br>🔬 Areas of Interest<br>VLSI Design & Verification<br>Digital Electronics & Logic Design<br>Embedded Systems & IoT<br>Semiconductor Technology<br>Artificial Intelligence & Machine Learning<br><br><br>🌱 I believe innovation happens where curiosity meets technology. Whether it's designing digital circuits, building intelligent systems, or contributing to impactful projects, I'm always eager to learn, create, and collaborate.<br><br>✨ Engineering the future, one circuit and one line of code at a time.<br><br>📫 Open to collaborations, research opportunities, and tech discussions!
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Manpreet%20Kaur&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=STUDENT&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Manpreet661">
+    <img src="https://komarev.com/ghpvc/?username=Manpreet661&label=Profile%20views&color=00FFFF&style=flat-square" alt="Manpreet661's profile views" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- 🎓 Electronics Engineering Student specializing in VLSI Design & Technology
+- 🌱 I believe innovation happens where curiosity meets technology. Whether it's designing digital circuits, building intelligent systems, or contributing to impactful projects, I'm always eager to learn, create, and collaborate.
+- ✨ Engineering the future, one circuit and one line of code at a time.
+- 📫 Open to collaborations, research opportunities, and tech discussions!
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Manpreet) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaurmanpreet06951@gmail.com) 
+## 🧠 My Focus Areas
+- 🔹 VLSI Design & Verification
+- 🔹 Digital System Design
+- 🔹 Semiconductor Technology
+- 🔹 FPGA & ASIC Development
+- 🔹 Python for Engineering Applications
+- 🔹 AI & Intelligent Systems
+- 🔹 Embedded Systems & IoT
+- 🔹 Technology Innovation & Problem Solving
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Manpreet661&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Manpreet661&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Manpreet661&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Manpreet661&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Manpreet661">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manpreet661&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Manpreet661's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Manpreet661&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Manpreet661's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Manpreet661&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Manpreet Kaur's GitHub Trophies" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/Manpreet661">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manpreet661&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/manpreet-kaur-71a124377">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kaurmanpreeettt5678@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
